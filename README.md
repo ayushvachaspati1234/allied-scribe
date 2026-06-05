@@ -1,4 +1,4 @@
-# NoteWell — Landing Page
+# Mossbell — Landing Page
 
 Static landing page for an **AI clinical documentation platform for allied health** (PT, OT, SLP, chiro) startup. No build step, no dependencies — plain HTML/CSS/JS.
 
@@ -8,9 +8,9 @@ Edit the three values at the top of **`config.js`**:
 
 ```js
 const BRAND = {
-  companyName: "NoteWell",
-  domain: "notewell.example.com",
-  contactEmail: "hello@notewell.example.com"
+  companyName: "Mossbell",
+  domain: "mossbell.app",
+  contactEmail: "hello@mossbell.app"
 };
 ```
 
